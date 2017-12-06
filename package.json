@@ -27,7 +27,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "iffy",
+        "owner": "istar0me",
         "repo": "electron-updater-example"
       }
     ]
