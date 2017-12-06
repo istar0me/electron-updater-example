@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "electron-log": "^1.3.0",
-    "electron-updater": "^2.16.1"
+    "electron-updater": "^2.16.3"
   },
   "build": {
     "appId": "com.github.iffy.electronupdaterexample",
@@ -27,7 +27,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "istar0me",
+        "owner": "iffy",
         "repo": "electron-updater-example"
       }
     ]
